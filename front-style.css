@@ -1,0 +1,38 @@
+/* CSS Document */
+.gsp_nav{
+	clear:both;
+	width:100%;
+	padding:10px 20px;
+	font-size:24px;
+	
+}
+.gsp_nav div{
+	width:50%;
+}
+.gsp_nav a{
+	cursor:pointer;
+	text-decoration:none;
+}
+.gsp_nav a:hover{
+	text-decoration:none;
+}
+.gsp_nav .gsp_left{
+	float:left;	
+	text-align:left;
+}
+.gsp_nav .gsp_left a{
+	color:#666;
+}
+.gsp_nav .gsp_left a:hover{
+	color:#999;
+}
+.gsp_nav .gsp_right{
+	text-align:right;
+	float:left;
+}
+.gsp_nav .gsp_right a{
+	color:#666;
+}
+.gsp_nav .gsp_right a:hover{
+	color:#999;
+}

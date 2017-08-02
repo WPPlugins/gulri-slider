@@ -1,0 +1,44 @@
+/* CSS Document */
+
+.slider_data .btn-play2{
+
+	display:none;
+
+}
+#gsp_sectionid,
+#gsp_sectionid .inside{
+	padding:20px 10px;
+	float:left;
+	width:100%;
+}
+#gsp_sectionid .inside{
+	padding: 0 0 20px 0;
+}
+.gsp-image-wrapper{
+	margin:0;
+	padding:0;
+	width:100%;
+	float:left;
+}
+.gsp-image-wrapper .gsp_set{
+	float:left;
+	margin: 0 2px;
+	position:relative;
+}
+.gsp-image-wrapper .gsp_set img{
+	height:90px;
+	cursor:pointer;
+}
+.gsp-image-wrapper .gsp_set a {
+	background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
+	border-bottom: 1px solid #fff;
+	border-left: 1px solid #fff;
+	color: #fff;
+	cursor: pointer;
+	font-size: 12px;
+	padding: 0 6px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
